@@ -1,0 +1,32 @@
+Here's the rundown of what's happening in Bootcamp P2:
+
+SOFTWARE DEVELOPMENT LIFECYCLE: "To analyze the requirements of an application and architect a plan."
+
+DEVELOPING BACK-END SERVERS which:
+1) access databases
+2) connect to front-end client code
+- this enables human-computer interaction.
+
+MORE ADVANCED CODING TOPICS:
+1) Classes, Inheritance
+2) Runtime Environment and Asynchronous execution
+
+BACK-END DEVELOPMENT:
+1) building APIs using:
+- SQL and ORMs
+- Sequelize and Express
+
+FRONT-END DEVELOPMENT:
+1) connecting to backends using:
+- DOM and HTML
+- AJAX and React
+
+PROJECTS IN BOOTCAMP P2:
+1) Scooter Hire app
+2) Restaurant system
+3) Movie Database
+4) full-stack Warehouse Inventory Application.
+
+That's the rundown.
+
+GO to     ./B2W1/D1/script.js     to read notes on BOOTCAMP P2-WEEK 1-DAY 1 
