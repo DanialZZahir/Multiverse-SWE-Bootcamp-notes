@@ -29,4 +29,4 @@ PROJECTS IN BOOTCAMP P2:
 
 That's the rundown.
 
-GO to     ./B2W1/D1/script.js     to read notes on BOOTCAMP P2-WEEK 1-DAY 1 
+GO to     ./B2W1/D1/d1-activate.js     to read notes on BOOTCAMP P2-WEEK 1-DAY 1 
